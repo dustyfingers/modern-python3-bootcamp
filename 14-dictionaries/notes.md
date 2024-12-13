@@ -1,0 +1,1 @@
+consists of k/v pairs, similar to an object in js
