@@ -34,3 +34,6 @@ union_set = s | set_too
 
 # intersection of sets
 intersection_set = s & set_too
+
+# set comprehensions
+print({x**2 for x in range(10)})
